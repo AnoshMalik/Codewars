@@ -1,1 +1,6 @@
-console.log("hahdasjdhsjh");
+function duplicateEncode(word) { 
+
+
+
+
+}
